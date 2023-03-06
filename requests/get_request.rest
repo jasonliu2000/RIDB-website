@@ -1,0 +1,9 @@
+GET https://ridb.recreation.gov/api/v1/recareas/10175174/links?limit=50&offset=0
+Content-Type: application/json
+APIKey: 72d89446-cb75-45c5-9f91-49f234edb8b3
+
+# # request.body
+# {
+#   "name": "Jason Liu",
+#   "number": "133-303-3030"
+# }
